@@ -6,3 +6,5 @@ Created on Sun Apr  7 13:23:41 2019
 """
 
 print (1+1)
+
+print (6+2)
